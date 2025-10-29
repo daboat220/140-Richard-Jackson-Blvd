@@ -1,15 +1,18 @@
 
 {
-  "id": "oakmont-business-center-123",
-  "title": "Oakmont Business Center",
-  "address": "123 Oakmont Drive",
-  "city_state": "Springfield, IL 62704",
-  "primary_price": "$18.50/SF/YR (NNN)",
-  "project": "Oakmont Business Park",
-  "summary": "Office/Medical | Multiple spaces available | 8,950 SqFt Vacant",
+  "id": "beckrich-office-park-140",
+  "title": "140 R. Jackson Blvd",
+  "address": "140 Richard Jackson Blvd",
+  "city_state": "Panama City Beach, FL 32407",
+  "primary_price": "$20/SF/YR",
+  "project": "Beckrich Office Park",
+  "summary": "Office/Medical | 8,950 SqFt Vacant | Updated 20 days ago",
   "images": [
-    "images/1.jpg",
-    "images/floorplan.jpg"
+    "images/8650679.jpg",
+    "images/8650678.jpg",
+    "images/8650677.jpg",
+    "images/8650676.jpg",
+    "images/8650675.jpg"
   ],
   "brochure_url": "https://example.com/property-brochure.pdf",
   "at_a_glance": [
@@ -66,15 +69,15 @@
       "value": "34034-007-000"
     }
   ],
-  "building_description": "Oakmont Business Center offers a versatile and professional environment suitable for a wide range of office and medical tenants. This well-maintained, single-story property provides flexible floor plans that can be customized to meet specific business needs. With excellent visibility and ample on-site parking, it ensures convenient access for both employees and clients.\n\nThe property is strategically located in a thriving commercial district, surrounded by local amenities including restaurants, retail centers, and public transportation. Its robust infrastructure and professional management make it an ideal choice for businesses looking for a high-quality space in a prime location.",
+  "building_description": "2457 rentable square feet of Class 'A' office space available in Beckrich Office Park. Suite 125 is currently an open floor plan ready to finish-to-suit. The suite is located in the southeast corner of the building. High ceilings and lots of big windows.\n\nThe space plans and photos are attached. Call for further details and to setup a tour. Suite 120 is also available with 6,471 rentable square feet.",
   "building_highlights": [
-    "Flexible suites for office and medical use",
-    "Ample surface parking for staff and visitors",
-    "Professionally managed and maintained property",
-    "High-visibility location in a busy commercial corridor",
-    "Single-story building for easy accessibility",
-    "Close proximity to major highways and local amenities",
-    "Zoned for commercial use, allowing for various business types"
+    "Class 'A' office space available in Beckrich Office Park",
+    "Suite 125 features 2,457 rentable square feet",
+    "Open floor plan ready to finish-to-suit",
+    "Located in the southeast corner of the building",
+    "Features high ceilings and lots of big windows",
+    "Suite 120 also available with 6,471 rentable square feet",
+    "Space plans and photos are attached and available for review"
   ],
   "building_details": [
     {
@@ -135,13 +138,13 @@
     }
   ],
   "contact": {
-    "name": "John Doe",
-    "phone": "217.555.9876",
-    "email": "john.doe@svn.com",
+    "name": "Chris McCall, SIOR",
+    "phone": "(555) 555-3623",
+    "email": "user@example.com",
     "profileImage": "images/profile.png",
     "companyLogo": "images/logo.jpg",
     "companyWebsite": "https://www.rivieracommercial.com/",
-    "companyPhone": "888.240.0499"
+    "companyPhone": "888.555.1234"
   },
   "nav_links": [
     "Listing Contacts",
