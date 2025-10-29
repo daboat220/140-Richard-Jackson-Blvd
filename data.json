@@ -1,0 +1,157 @@
+
+{
+  "id": "oakmont-business-center-123",
+  "title": "Oakmont Business Center",
+  "address": "123 Oakmont Drive",
+  "city_state": "Springfield, IL 62704",
+  "primary_price": "$18.50/SF/YR (NNN)",
+  "project": "Oakmont Business Park",
+  "summary": "Office/Medical | Multiple spaces available | 8,950 SqFt Vacant",
+  "images": [
+    "images/1.jpg",
+    "images/floorplan.jpg"
+  ],
+  "brochure_url": "https://example.com/property-brochure.pdf",
+  "at_a_glance": [
+    {
+      "label": "Property Type",
+      "value": "Office, Industrial"
+    },
+    {
+      "label": "Sub Type",
+      "value": "Executive Office, Medical Office"
+    },
+    {
+      "label": "Tenancy",
+      "value": "Multiple"
+    },
+    {
+      "label": "Lease Type",
+      "value": "NNN"
+    },
+    {
+      "label": "Total Building SqFt",
+      "value": "31,360"
+    },
+    {
+      "label": "Min Divisible SqFt",
+      "value": "2,457"
+    },
+    {
+      "label": "Vacant SqFt",
+      "value": "8,950"
+    },
+    {
+      "label": "Year Built",
+      "value": 2004
+    },
+    {
+      "label": "Number of Buildings",
+      "value": 1
+    },
+    {
+      "label": "Zoning",
+      "value": "COMMERCIAL"
+    },
+    {
+      "label": "Stories",
+      "value": 1
+    },
+    {
+      "label": "Available on",
+      "value": "07/06/2024"
+    },
+    {
+      "label": "Assessor Parcel Number",
+      "value": "34034-007-000"
+    }
+  ],
+  "building_description": "Oakmont Business Center offers a versatile and professional environment suitable for a wide range of office and medical tenants. This well-maintained, single-story property provides flexible floor plans that can be customized to meet specific business needs. With excellent visibility and ample on-site parking, it ensures convenient access for both employees and clients.\n\nThe property is strategically located in a thriving commercial district, surrounded by local amenities including restaurants, retail centers, and public transportation. Its robust infrastructure and professional management make it an ideal choice for businesses looking for a high-quality space in a prime location.",
+  "building_highlights": [
+    "Flexible suites for office and medical use",
+    "Ample surface parking for staff and visitors",
+    "Professionally managed and maintained property",
+    "High-visibility location in a busy commercial corridor",
+    "Single-story building for easy accessibility",
+    "Close proximity to major highways and local amenities",
+    "Zoned for commercial use, allowing for various business types"
+  ],
+  "building_details": [
+    {
+      "label": "Date Listed",
+      "value": "Jun 18, 2024"
+    },
+    {
+      "label": "Last Updated",
+      "value": "Oct 8, 2025"
+    },
+    {
+      "label": "Property Type",
+      "value": "Office, Industrial"
+    },
+    {
+      "label": "Subtype",
+      "value": "Executive Office, Medical Office"
+    },
+    {
+      "label": "Tenancy",
+      "value": "Multiple"
+    },
+    {
+      "label": "Total Building SqFt",
+      "value": "31,360"
+    },
+    {
+      "label": "Minimum Divisible SqFt",
+      "value": "2,457"
+    },
+    {
+      "label": "Vacant SqFt",
+      "value": "8,950"
+    },
+    {
+      "label": "Year Built",
+      "value": 2004
+    },
+    {
+      "label": "Buildings",
+      "value": 1
+    },
+    {
+      "label": "Stories",
+      "value": 1
+    },
+    {
+      "label": "Frontage",
+      "value": "700"
+    },
+    {
+      "label": "Zoning",
+      "value": "COMMERCIAL"
+    },
+    {
+      "label": "APN",
+      "value": "34034-007-000"
+    }
+  ],
+  "contact": {
+    "name": "John Doe",
+    "phone": "217.555.9876",
+    "email": "john.doe@svn.com",
+    "profileImage": "images/profile.png",
+    "companyLogo": "images/logo.jpg",
+    "companyWebsite": "https://www.rivieracommercial.com/",
+    "companyPhone": "888.240.0499"
+  },
+  "nav_links": [
+    "Listing Contacts",
+    "Building Details",
+    "About Property",
+    "Spaces",
+    "Map",
+    "Climate Risk",
+    "Demographics",
+    "Location Insights",
+    "Similar Properties"
+  ]
+}
