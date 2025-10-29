@@ -137,14 +137,14 @@
       "value": "34034-007-000"
     }
   ],
-  "contact": {
-    "name": "Chris McCall, SIOR",
-    "phone": "(555) 555-3623",
-    "email": "user@example.com",
+   "contact": {
+    "name": "David Boatwright",
+    "phone": "850.527.1623",
+    "email": "David.Boatwright@svn.com",
     "profileImage": "images/profile.png",
     "companyLogo": "images/logo.jpg",
     "companyWebsite": "https://www.rivieracommercial.com/",
-    "companyPhone": "888.555.1234"
+    "companyPhone": "888.240.0499"
   },
   "nav_links": [
     "Listing Contacts",
